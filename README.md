@@ -8,10 +8,10 @@ You can find more details about nToklo for Retail [here](http://ntoklo.com).
 Widget = an HTML container displaying a chart or a number of recommendations.
 
 ### Layouts
-1. Row
-2. Column (small image at the right or large image above)
-3. Grid - two-column and three-column
-4. Chart
+Row
+Column (small image at the right or large image above)
+Grid - two-column and three-column
+Chart
 
 ### Files to include
 The widget_markup folder contains the markup for each of the layouts above.
@@ -22,12 +22,12 @@ The widgets have responsive styles with breakpoints at 768px, 480px and 320px. T
 ### Colour schemes
 There are six colour schemes for the widgets:
 
-1. Plum - .nt_plum 
-2. Pink - .nt_pink 
-3. Orange - .nt_orange 
-4. Green - .nt_green 
-5. Blue - .nt_blue 
-6. Dark blue - .nt_dark_blue  
+Plum - .nt_plum 
+Pink - .nt_pink 
+Orange - .nt_orange 
+Green - .nt_green 
+Blue - .nt_blue 
+Dark blue - .nt_dark_blue  
 
 Simply apply the appropriate class to the parent container.
 

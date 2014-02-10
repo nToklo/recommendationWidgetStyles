@@ -80,7 +80,7 @@
     border-radius: 0.3em; }
   .nt_wrapper .nt_item_wrap {
     overflow: hidden;
-    padding: 2%; }
+    padding: 1em; }
   .nt_wrapper .nt_product_title {
     border-bottom: 1px solid #dddddd;
     font-size: 1.1em;
@@ -120,7 +120,7 @@
       width: 25%; }
   .nt_wrapper.nt_grid .nt_row .nt_item_wrap {
     float: left;
-    padding: 2%; }
+    padding: 1em; }
   .nt_wrapper.nt_grid.nt_2_column .nt_row .nt_item_wrap {
     width: 50%; }
   .nt_wrapper.nt_grid.nt_3_column .nt_row .nt_item_wrap {
@@ -170,6 +170,7 @@
     .nt_wrapper.nt_chart table tfoot .nt_table_item {
       background: #f8f8f7 url(../img/ntoklo_logo_charts.png) no-repeat 95% center; }
   .nt_wrapper .nt_logo {
+    background: transparent url(../img/ntoklo_logo.png) no-repeat right center;
     clear: both;
     height: 26px;
     margin: .5em 1em; }

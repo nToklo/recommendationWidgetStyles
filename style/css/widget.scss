@@ -111,7 +111,7 @@ $backgroundColor: #F8F8F7;
 
 	.nt_item_wrap {
 		overflow: hidden;
-		padding: 2%;
+		padding: 1em;
 	}
 
 	.nt_product_title {
@@ -202,7 +202,7 @@ $backgroundColor: #F8F8F7;
 		.nt_row {
 			.nt_item_wrap {
 				float: left;
-				padding: 2%;
+				padding: 1em;
 			}
 		}
 		&.nt_2_column {
@@ -292,6 +292,7 @@ $backgroundColor: #F8F8F7;
 	}
 
 	.nt_logo {
+		background: transparent url(../img/ntoklo_logo.png) no-repeat right center;
 		clear: both;
 		height: 26px;
 		margin: .5em 1em;

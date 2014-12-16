@@ -106,7 +106,7 @@
   width: 100%; }
   .nt_row.nt_r3 li, .nt_row.nt_r4 li {
     float: left;
-    width: 33%; }
+    width: 33.3%; }
   .nt_row.nt_r3 li:first-child, .nt_row.nt_r4 li:first-child {
     padding-right: 0.5em; }
   .nt_row.nt_r3 li:nth-child(2), .nt_row.nt_r4 li:nth-child(2) {
